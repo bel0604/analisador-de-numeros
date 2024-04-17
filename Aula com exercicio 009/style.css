@@ -1,0 +1,46 @@
+*{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+   
+    
+}
+body{
+    color: rgb(1, 1, 138);
+    text-align: center;
+    display:grid;
+    place-content:center;
+    background-image: linear-gradient(to right,#316080, #546e8b);
+   
+    
+}
+header{
+    border-radius: 50px;
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+}
+section{
+    background-color: rgb(68, 99, 69);
+    height: 400px;
+    width: 500px;
+    border-radius: 30px;
+    
+}
+.analisar{
+    text-align: left;
+}
+
+
+.finalizar{
+    text-align: left;
+    padding: 25px;
+}
+input{
+    text-align: left;
+}
+.analisador{
+    text-align: left;
+    margin-left: 20px;
+}
+
